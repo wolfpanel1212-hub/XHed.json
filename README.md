@@ -1,1 +1,7 @@
-# XHed.json
+[
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
